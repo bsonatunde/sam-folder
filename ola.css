@@ -1,0 +1,58 @@
+ .a{
+    background-color: white;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+  
+ .b{
+    background-color: grey;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+  
+ .c{
+    background-color: white;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+ .d{
+    background-color: grey;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+ .e{
+    background-color: white;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+ .f{
+    background-color: grey;
+    width: 300px;
+    border: 4px solid black;
+    padding: 30px;
+    margin: 20px;
+ }
+  
+ .g{ width: 80%;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     
+
+ }
+  .container{ width: 80%;
+              margin: auto;
+              border: 2px solid;
+              padding: 20px solid;
+              
+
+  }
